@@ -12,7 +12,7 @@ const Hero = () => {
         <button
           type='button'
           onClick={() =>
-            window.open("https://github.com/hngpt52/summariser", "_blank")
+            window.open("https://github.com/hngpt52/summariser", "_blank" )
           }
           className='black_btn'
         >
